@@ -1,6 +1,6 @@
 # CRA Icons
 
-Alternative icons for [Cra](https://cra.ai).
+Alternative icons for [Cra](https://github.com/VictorKildahl/cra).
 
 ## Icons
 
